@@ -1,2 +1,3 @@
 Aula inicial de Git.txt
 Segunda linha do arquivo Git.txt
+Terceira linha do arquivo Git.txt
